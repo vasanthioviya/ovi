@@ -6,5 +6,9 @@ badam
 pasta
 fried fish
 
+chicken
+masala
+noodles
+
 thanks
 
